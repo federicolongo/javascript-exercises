@@ -1,0 +1,14 @@
+{
+  "name": "federico-tests",
+  "version": "1.0.0",
+  "description": "Basic JavaScript exercises taken from site https://www.w3resource.com/javascript-exercises/javascript-basic-exercises.php",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Federico Longo",
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "^7.0.1"
+  }
+}
